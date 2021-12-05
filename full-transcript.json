@@ -1,0 +1,127 @@
+Data: {
+  "result_index": 0,
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "it ",
+          "confidence": 0.4
+        },
+        {
+          "transcript": "okay "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "okay ",
+          "confidence": 0.42
+        },
+        {
+          "transcript": "K. "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "Berio comma tied in with all of us at the ",
+          "confidence": 0.57
+        },
+        {
+          "transcript": "barrio color tied in with all of us at the "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "all of us ",
+          "confidence": 0.96
+        },
+        {
+          "transcript": "all of us I "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "%HESITATION there will come a time written down goals you when things ",
+          "confidence": 0.45
+        },
+        {
+          "transcript": "%HESITATION there'll come a time written down goals you when things "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "remaining two remembered that anyone ever existed what else species ever did anything ",
+          "confidence": 0.73
+        },
+        {
+          "transcript": "remaining two remembered that anyone ever existed or that all species ever did anything "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "there will be no one left to remember Aristotle Cooper trauma that alone you everything the V. D. R. A. N. D. O. N. roda en Pointe and discovery and all of this there have been ",
+          "confidence": 0.65
+        },
+        {
+          "transcript": "there will be no one left to remember Aristotle cobra that alone you everything the V. D. R. A. N. D. O. N. roda en Pointe and discovery and all of this there have been "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "maybe that time is coming soon and Levi's villains of yes every but even if you survive the collapse of all sun ",
+          "confidence": 0.63
+        },
+        {
+          "transcript": "maybe the time is coming soon and Levi's villains of yes every but even if you survive the collapse of all sun "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "he ",
+          "confidence": 0.1
+        },
+        {
+          "transcript": "in "
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "a lot of five four of ",
+          "confidence": 0.24
+        },
+        {
+          "transcript": "a loss of five four of "
+        }
+      ]
+    }
+  ]
+}
+Close: 1000
+Close: undefined

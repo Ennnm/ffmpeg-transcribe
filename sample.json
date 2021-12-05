@@ -1,0 +1,1019 @@
+
+Data: {
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 50.5,
+      "transcription": 48.96,
+      "speaker_labels": 48.58
+    },
+    "wall_clock_since_first_byte_received": 28.13,
+    "periodic": true
+  }
+}
+Data: {
+  "result_index": 11,
+  "results": [
+    {
+      "final": false,
+      "alternatives": [
+        {
+          "transcript": "three ",
+          "timestamps": [
+            [
+              "three",
+              49.3,
+              49.65
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 50.5,
+      "transcription": 48.96,
+      "speaker_labels": 48.58
+    },
+    "wall_clock_since_first_byte_received": 28.17,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 11,
+  "results": [
+    {
+      "final": false,
+      "alternatives": [
+        {
+          "transcript": "he ",
+          "timestamps": [
+            [
+              "he",
+              49.37,
+              50.07
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 51.5,
+      "transcription": 49.65,
+      "speaker_labels": 48.58
+    },
+    "wall_clock_since_first_byte_received": 28.61,
+    "periodic": false
+  }
+}
+Data: {
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 52,
+      "transcription": 50.65,
+      "speaker_labels": 48.58
+    },
+    "wall_clock_since_first_byte_received": 29.13,
+    "periodic": true
+  }
+}
+Data: {
+  "result_index": 11,
+  "results": [
+    {
+      "final": false,
+      "end_of_utterance": "silence",
+      "alternatives": [
+        {
+          "transcript": "he ",
+          "timestamps": [
+            [
+              "he",
+              49.37,
+              50.07
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 52,
+      "transcription": 50.65,
+      "speaker_labels": 48.58
+    },
+    "wall_clock_since_first_byte_received": 29.14,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 11,
+  "results": [
+    {
+      "final": true,
+      "end_of_utterance": "silence",
+      "alternatives": [
+        {
+          "transcript": "he ",
+          "confidence": 0.1,
+          "timestamps": [
+            [
+              "he",
+              49.37,
+              50.07
+            ]
+          ]
+        },
+        {
+          "transcript": "in "
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 52.25,
+      "transcription": 51.21,
+      "speaker_labels": 48.58
+    },
+    "wall_clock_since_first_byte_received": 29.15,
+    "periodic": false
+  }
+}
+Data: {
+  "speaker_labels": [
+    {
+      "from": 38.43,
+      "to": 38.71,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 49.37,
+      "to": 50.07,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 52.5,
+      "transcription": 51.21,
+      "speaker_labels": 48.58
+    },
+    "wall_clock_since_first_byte_received": 29.17,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 12,
+  "results": [
+    {
+      "final": false,
+      "alternatives": [
+        {
+          "transcript": "of all ",
+          "timestamps": [
+            [
+              "of",
+              51.21,
+              51.4
+            ],
+            [
+              "all",
+              51.4,
+              51.65
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 52.75,
+      "transcription": 51.21,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 29.46,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 12,
+  "results": [
+    {
+      "final": false,
+      "alternatives": [
+        {
+          "transcript": "a lot of ",
+          "timestamps": [
+            [
+              "a",
+              51.21,
+              51.29
+            ],
+            [
+              "lot",
+              51.29,
+              51.9
+            ],
+            [
+              "of",
+              52.4,
+              52.65
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 53.25,
+      "transcription": 51.65,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 29.83,
+    "periodic": false
+  }
+}
+Data: {
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54,
+      "transcription": 52.65,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 30.13,
+    "periodic": true
+  }
+}
+Data: {
+  "result_index": 12,
+  "results": [
+    {
+      "final": false,
+      "alternatives": [
+        {
+          "transcript": "a lot of five ",
+          "timestamps": [
+            [
+              "a",
+              51.21,
+              51.29
+            ],
+            [
+              "lot",
+              51.29,
+              51.9
+            ],
+            [
+              "of",
+              52.4,
+              52.54
+            ],
+            [
+              "five",
+              52.54,
+              53.08
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54,
+      "transcription": 52.65,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 30.15,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 12,
+  "results": [
+    {
+      "final": false,
+      "alternatives": [
+        {
+          "transcript": "a lot of five four of ",
+          "timestamps": [
+            [
+              "a",
+              51.21,
+              51.29
+            ],
+            [
+              "lot",
+              51.29,
+              51.9
+            ],
+            [
+              "of",
+              52.4,
+              52.54
+            ],
+            [
+              "five",
+              52.54,
+              53.08
+            ],
+            [
+              "four",
+              53.33,
+              53.52
+            ],
+            [
+              "of",
+              53.52,
+              53.66
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54.75,
+      "transcription": 53.41,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 30.49,
+    "periodic": false
+  }
+}
+Data: {
+  "audio_metrics": {
+    "accumulated": {
+      "clipping_rate": [
+        {
+          "count": 549,
+          "end": 0.00001,
+          "begin": 0
+        },
+        {
+          "count": 0,
+          "begin": 0.00001,
+          "end": 0.0001
+        },
+        {
+          "count": 0,
+          "begin": 0.0001,
+          "end": 0.001
+        },
+        {
+          "count": 0,
+          "begin": 0.001,
+          "end": 0.01
+        },
+        {
+          "count": 0,
+          "begin": 0.01,
+          "end": 0.1
+        },
+        {
+          "count": 0,
+          "begin": 0.1,
+          "end": 1
+        }
+      ],
+      "end_time": 54.9,
+      "final": true,
+      "high_frequency_loss": 0,
+      "non_speech_level": [
+        {
+          "count": 37,
+          "end": 0.1,
+          "begin": 0
+        },
+        {
+          "count": 50,
+          "begin": 0.1,
+          "end": 0.2
+        },
+        {
+          "count": 57,
+          "begin": 0.2,
+          "end": 0.3
+        },
+        {
+          "count": 3,
+          "begin": 0.3,
+          "end": 0.4
+        },
+        {
+          "count": 3,
+          "begin": 0.4,
+          "end": 0.5
+        },
+        {
+          "count": 2,
+          "begin": 0.5,
+          "end": 0.6
+        },
+        {
+          "count": 3,
+          "begin": 0.6,
+          "end": 0.7
+        },
+        {
+          "count": 2,
+          "begin": 0.7,
+          "end": 0.8
+        },
+        {
+          "count": 4,
+          "begin": 0.8,
+          "end": 0.9
+        },
+        {
+          "count": 0,
+          "begin": 0.9,
+          "end": 1
+        }
+      ],
+      "speech_level": [
+        {
+          "count": 1,
+          "end": 0.1,
+          "begin": 0
+        },
+        {
+          "count": 2,
+          "begin": 0.1,
+          "end": 0.2
+        },
+        {
+          "count": 10,
+          "begin": 0.2,
+          "end": 0.3
+        },
+        {
+          "count": 13,
+          "begin": 0.3,
+          "end": 0.4
+        },
+        {
+          "count": 10,
+          "begin": 0.4,
+          "end": 0.5
+        },
+        {
+          "count": 17,
+          "begin": 0.5,
+          "end": 0.6
+        },
+        {
+          "count": 68,
+          "begin": 0.6,
+          "end": 0.7
+        },
+        {
+          "count": 209,
+          "begin": 0.7,
+          "end": 0.8
+        },
+        {
+          "count": 58,
+          "begin": 0.8,
+          "end": 0.9
+        },
+        {
+          "count": 0,
+          "begin": 0.9,
+          "end": 1
+        }
+      ],
+      "speech_ratio": 0.707,
+      "signal_to_noise_ratio": 11.2,
+      "direct_current_offset": [
+        {
+          "count": 0,
+          "end": -0.9,
+          "begin": -1
+        },
+        {
+          "count": 0,
+          "begin": -0.9,
+          "end": -0.7
+        },
+        {
+          "count": 0,
+          "begin": -0.7,
+          "end": -0.5
+        },
+        {
+          "count": 0,
+          "begin": -0.5,
+          "end": -0.3
+        },
+        {
+          "count": 0,
+          "begin": -0.3,
+          "end": -0.1
+        },
+        {
+          "count": 549,
+          "begin": -0.1,
+          "end": 0.1
+        },
+        {
+          "count": 0,
+          "begin": 0.1,
+          "end": 0.3
+        },
+        {
+          "count": 0,
+          "begin": 0.3,
+          "end": 0.5
+        },
+        {
+          "count": 0,
+          "begin": 0.5,
+          "end": 0.7
+        },
+        {
+          "count": 0,
+          "begin": 0.7,
+          "end": 0.9
+        },
+        {
+          "count": 0,
+          "begin": 0.9,
+          "end": 1
+        }
+      ]
+    },
+    "sampling_interval": 0.1
+  },
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54.94,
+      "transcription": 54.08,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 30.55,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 12,
+  "results": [
+    {
+      "final": false,
+      "end_of_utterance": "silence",
+      "alternatives": [
+        {
+          "transcript": "a lot of five four of ",
+          "timestamps": [
+            [
+              "a",
+              51.21,
+              51.29
+            ],
+            [
+              "lot",
+              51.29,
+              51.9
+            ],
+            [
+              "of",
+              52.4,
+              52.54
+            ],
+            [
+              "five",
+              52.54,
+              53.08
+            ],
+            [
+              "four",
+              53.33,
+              53.52
+            ],
+            [
+              "of",
+              53.52,
+              53.66
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54.94,
+      "transcription": 54.08,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 30.86,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 12,
+  "results": [
+    {
+      "final": true,
+      "end_of_utterance": "silence",
+      "alternatives": [
+        {
+          "transcript": "a lot of 54 of ",
+          "confidence": 0.24,
+          "timestamps": [
+            [
+              "a",
+              51.21,
+              51.29
+            ],
+            [
+              "lot",
+              51.29,
+              51.9
+            ],
+            [
+              "of",
+              52.4,
+              52.54
+            ],
+            [
+              "five",
+              52.54,
+              53.08
+            ],
+            [
+              "four",
+              53.33,
+              53.52
+            ],
+            [
+              "of",
+              53.52,
+              53.66
+            ]
+          ]
+        },
+        {
+          "transcript": "a loss of 54 of "
+        }
+      ]
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54.94,
+      "transcription": 54.08,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 30.87,
+    "periodic": false
+  }
+}
+Data: {
+  "speaker_labels": [
+    {
+      "from": 2.37,
+      "to": 2.76,
+      "speaker": 2,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 11.3,
+      "to": 12.36,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 13.08,
+      "to": 13.26,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 13.26,
+      "to": 13.38,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 13.38,
+      "to": 13.58,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 13.58,
+      "to": 13.65,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 13.65,
+      "to": 14.11,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 14.11,
+      "to": 14.41,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 14.41,
+      "to": 14.81,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 14.81,
+      "to": 15.62,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 15.62,
+      "to": 15.74,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 15.74,
+      "to": 16.41,
+      "speaker": 0,
+      "confidence": 0.33,
+      "final": false
+    },
+    {
+      "from": 16.97,
+      "to": 17.63,
+      "speaker": 2,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 19.32,
+      "to": 19.88,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 19.88,
+      "to": 20,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 20,
+      "to": 20.64,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 20.64,
+      "to": 20.83,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 20.99,
+      "to": 21.48,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 29.63,
+      "to": 29.85,
+      "speaker": 0,
+      "confidence": 0.38,
+      "final": false
+    },
+    {
+      "from": 29.88,
+      "to": 30.26,
+      "speaker": 0,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 30.26,
+      "to": 30.65,
+      "speaker": 0,
+      "confidence": 0.42,
+      "final": false
+    },
+    {
+      "from": 32.93,
+      "to": 33.68,
+      "speaker": 0,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 33.68,
+      "to": 33.81,
+      "speaker": 0,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 33.81,
+      "to": 34.01,
+      "speaker": 0,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 34.01,
+      "to": 34.14,
+      "speaker": 0,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 34.14,
+      "to": 34.56,
+      "speaker": 0,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 35.06,
+      "to": 35.26,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 35.26,
+      "to": 35.76,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 39.65,
+      "to": 39.82,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 39.82,
+      "to": 40.03,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 40.03,
+      "to": 40.38,
+      "speaker": 0,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 51.21,
+      "to": 51.29,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 51.29,
+      "to": 51.9,
+      "speaker": 0,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 52.4,
+      "to": 52.54,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 52.54,
+      "to": 53.08,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 53.33,
+      "to": 53.52,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 53.52,
+      "to": 53.66,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": false
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54.94,
+      "transcription": 54.08,
+      "speaker_labels": 51.21
+    },
+    "wall_clock_since_first_byte_received": 30.92,
+    "periodic": false
+  }
+}
+Data: {
+  "speaker_labels": [
+    {
+      "from": 53.33,
+      "to": 53.52,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": true
+    }
+  ],
+  "processing_metrics": {
+    "processed_audio": {
+      "received": 54.94,
+      "seen_by_engine": 54.94,
+      "transcription": 54.92,
+      "speaker_labels": 54.08
+    },
+    "wall_clock_since_first_byte_received": 30.94,
+    "periodic": false
+  }
+}
+Data: {
+  "result_index": 12,
+  "results": [
+    {
+      "processing_metrics": {
+        "processed_audio": {
+          "received": 54.94,
+          "seen_by_engine": 54.94,
+          "transcription": 54.92,
+          "speaker_labels": 54.92
+        },
+        "wall_clock_since_first_byte_received": 30.94,
+        "periodic": false
+      }
+    }
+  ],
+  "speaker_labels": [
+    {
+      "from": 53.52,
+      "to": 53.66,
+      "speaker": 2,
+      "confidence": 0.47,
+      "final": true
+    }
+  ]
+}
+Close: 1000
+Close: undefined
